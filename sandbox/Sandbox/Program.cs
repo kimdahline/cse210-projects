@@ -15,8 +15,12 @@ class Program
         string age = Console.ReadLine();
         Console.WriteLine($"I see, {age} is a great age!");
         Console.WriteLine("Do u play video games");
+        string answer = Console.ReadLine();
+        Console.WriteLine($"ohh! Thats great if you do");
+        Console.WriteLine("So what could be your best game");
         string game = Console.ReadLine();
-        Console.WriteLine($"Wow! {game} is one of the best games ever");
+        Console.WriteLine($"Wow! {game} was ranked the best.");
+        
 
     }
 }
