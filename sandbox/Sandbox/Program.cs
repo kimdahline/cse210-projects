@@ -14,6 +14,9 @@ class Program
         Console.WriteLine("How old are you?");
         string age = Console.ReadLine();
         Console.WriteLine($"I see, {age} is a great age!");
+        Console.WriteLine("Do u play video games");
+        string game = Console.ReadLine();
+        Console.WriteLine($"Wow! {game} is one of the best games ever");
 
     }
 }
