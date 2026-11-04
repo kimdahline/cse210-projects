@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Am kim Dahline.Nice to meet you!");
+        Console.WriteLine("Am king Dahline.Nice to meet you!");
         Console.WriteLine("What is your name?");
         string name = Console.ReadLine();
         Console.WriteLine($"Oh, {name}! It's great to meet you!");
