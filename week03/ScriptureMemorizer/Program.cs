@@ -8,7 +8,7 @@ class Program
         // EXCEEDING REQUIREMENTS NOTE: 
         // To exceed core requirements, this program includes a library of multiple 
         // scriptures (John 3:16, Proverbs 3:5-6, Philippians 4:13) and randomly 
-        // selects one each time the application starts. Additionally, the word-hiding 
+        // selects one each time the application starts. Additionally, the word-hiding. 
         // algorithm selects specifically from unhidden words to ensure steady progression.
         List<Scripture> scriptures = new List<Scripture>
         {
